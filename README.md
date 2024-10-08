@@ -2,7 +2,6 @@
  
  # Salam! 👋
 
-## About Me
 I'm **Oussama**, a passionate learner exploring the world of Embedded Software and Embedded Linux with a focus on automotive applications.
 
 ## Learning Path
