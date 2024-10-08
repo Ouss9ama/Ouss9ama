@@ -1,4 +1,4 @@
-![Banner]([https://your-image-url.com](https://github.com/Ouss9ama/Ouss9ama/blob/main/linkedin%20background.jpeg?raw=true))
+![Banner](https://github.com/Ouss9ama/Ouss9ama/blob/main/linkedin%20background.jpeg?raw=true)
  
  # Salam! 👋
 
