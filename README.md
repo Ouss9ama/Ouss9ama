@@ -1,7 +1,4 @@
-![Banner](https://github.com/Ouss9ama/Ouss9ama/blob/main/linkedin%20background.jpeg?raw=true)
  
- # Salam! 👋
-
 I'm **Oussama**, a passionate learner exploring the world of Embedded Software and Embedded Linux with a focus on automotive applications.
 
 ## Learning Path
