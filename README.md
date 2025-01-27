@@ -1,4 +1,4 @@
- # 👋 Hello World! I'm Oussama 
+ # 👋 Salam
 
 **I'm Oussama**, a passionate learner exploring the world of Embedded Software and Embedded Linux with a focus on automotive applications.
 
